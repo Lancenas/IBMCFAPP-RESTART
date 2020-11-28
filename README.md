@@ -5,8 +5,8 @@ IBM CLOUD APPS RESTART
 ---
 Fork项目下settings-secret-New secret 分别建立以下四项：  
 ```
-IBM_ACCOUNT // IBM Cloud的登录邮箱和密码
-IBM_APP_NAME // 应用的名称
-REGION_NUM // 区域编码
-RESOURSE_ID // 资源组ID
+MAIL // IBM Cloud登录邮箱
+PWD  // IBM CLOUD登陆密码
+CFNAME // 应用的名称
+RGN // us-south
 ```
