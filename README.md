@@ -12,5 +12,5 @@ RGN // us-south
 ```
 
 参考：  
-[P3TERX/IBM-CF-V2](https://github.com/P3TERX/IBM-CF-V2)  
-[CCChieh/IBMYes](https://github.com/CCChieh/IBMYes)
+* [P3TERX/IBM-CF-V2](https://github.com/P3TERX/IBM-CF-V2)  
+* [CCChieh/IBMYes](https://github.com/CCChieh/IBMYes)
